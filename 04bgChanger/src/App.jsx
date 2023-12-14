@@ -25,15 +25,15 @@ function App() {
       onClick={()=>setColor('pink')}
        className='outline-none px-4 py-1 rounded-full  shadow-lg text-black' style={{backgroundColor:'pink'}}>Pink</button>
       <button
-      // onClick={()=>changeColor('green')}
+      // onClick={()=>changeColor('blue')}
       onClick={()=>setColor('blue')}
        className='outline-none px-4 py-1 rounded-full  shadow-lg text-black' style={{backgroundColor:'blue'}}>Blue</button>
       <button
-      // onClick={()=>changeColor('green')}
+      // onClick={()=>changeColor('brown')}
       onClick={()=>setColor('brown')}
        className='outline-none px-4 py-1 rounded-full  shadow-lg text-black' style={{backgroundColor:'brown'}}>Brown</button>
       <button
-      // onClick={()=>changeColor('green')}
+      // onClick={()=>changeColor('orange')}
       onClick={()=>setColor('orange')}
        className='outline-none px-4 py-1 rounded-full  shadow-lg text-black' style={{backgroundColor:'orange'}}>Orange</button>
      
